@@ -10,3 +10,4 @@ After preprocessing and feature extraction from the images, implemented image cl
 
 For compilation, have used adam optimizer with learning rate of 0.001 and performance metrics as accuracy and cross entropy for minimizing data loss.
 
+Dataset link:- https://drive.google.com/drive/folders/1keDyx5BD3kf4KbiOqQgFbDQrc5XcQ5qf
